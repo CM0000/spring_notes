@@ -9,6 +9,7 @@
         <module name="spring_02_scope" />
         <module name="spring03_Bean_zhuangpei" />
         <module name="spring01_ioc" />
+        <module name="spring04_Bean_Annotation" />
       </profile>
     </annotationProcessing>
   </component>

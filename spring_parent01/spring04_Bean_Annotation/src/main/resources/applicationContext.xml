@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans 
+http://www.springframework.org/schema/beans/spring-beans-4.3.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+    <!--开启注解处理器-->
+    <context:annotation-config/>
+    <!--<bean id="userDao" class="com.itheima.dao.impl.UserDaoImpl"/>
+    <bean id="userService" class="com.itheima.service.impl.UserServiceImpl"/>
+    <bean id="userController" class="com.itheima.controller.UserController"/>-->
+    <!--开启对包的扫描，添加spring-aop依赖-->
+    <context:component-scan base-package="com.itheima"/>
+</beans>
