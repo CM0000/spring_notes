@@ -11,6 +11,7 @@
     <modules>
         <module>spring01_ioc</module>
         <module>spring_02_scope</module>
+        <module>spring03_Bean_zhuangpei</module>
     </modules>
 
 
