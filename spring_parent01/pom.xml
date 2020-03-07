@@ -13,6 +13,7 @@
         <module>spring_02_scope</module>
         <module>spring03_Bean_zhuangpei</module>
         <module>spring04_Bean_Annotation</module>
+        <module>spring05_Bean_autowire</module>
     </modules>
 
 
