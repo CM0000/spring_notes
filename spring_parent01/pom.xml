@@ -14,6 +14,7 @@
         <module>spring03_Bean_zhuangpei</module>
         <module>spring04_Bean_Annotation</module>
         <module>spring05_Bean_autowire</module>
+        <module>spring06_AOP_AspectJ_XML</module>
     </modules>
 
 
