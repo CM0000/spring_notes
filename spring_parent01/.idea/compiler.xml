@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring05_Bean_autowire" />
         <module name="spring04_Bean_Annotation" />
         <module name="spring_02_scope" />
+        <module name="spring09_Transcation_XML" />
         <module name="spring01_ioc" />
+        <module name="spring03_Bean_zhuangpei" />
         <module name="spring06_AOP_AspectJ_XML" />
         <module name="spring07_AOP_AspectJ_Annotation" />
-        <module name="spring03_Bean_zhuangpei" />
+        <module name="spring05_Bean_autowire" />
         <module name="spring08_JDBC_update" />
       </profile>
     </annotationProcessing>

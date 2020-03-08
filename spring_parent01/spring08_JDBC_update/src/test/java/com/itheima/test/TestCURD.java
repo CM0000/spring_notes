@@ -38,8 +38,5 @@ public class TestCURD {
     public void findById(){
         User user = userService.findById(51);
         System.out.println(user);
-
-
-
     }
 }

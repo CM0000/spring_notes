@@ -17,6 +17,7 @@
         <module>spring06_AOP_AspectJ_XML</module>
         <module>spring07_AOP_AspectJ_Annotation</module>
         <module>spring08_JDBC_update</module>
+        <module>spring09_Transcation_XML</module>
     </modules>
 
 
